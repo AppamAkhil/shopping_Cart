@@ -1,0 +1,16 @@
+ecommerce.db
+ecommerce.db.backup
+.env
+*.exe
+*.dll
+*.so
+*.dylib
+*.o
+*.a
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+go.sum
